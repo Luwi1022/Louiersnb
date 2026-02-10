@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louie Rasonabe</h1>
-<h3 align="center">A BSIT student from CvSU Naic Campus.</h3>
+<h3 align="center">A BSIT student from CvSU–Naic Campus.</h3>
 
-- 🌱 I’m currently learning **Information Technology**
+- 🌱 I’m currently learning **Java Programming Language**
 
 - 📫 How to reach me **louierasonabe7@gmail.com**
 
