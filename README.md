@@ -1,14 +1,9 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luwi1022.luwi1022&"  />
-</div>
-
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Louie Rasonabe</h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 
 <h3 align="center">A BSIT student from CvSU–Naic Campus.</h3>
 
@@ -33,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luwi1022.luwi1022&"  />
 </div>
 
 
